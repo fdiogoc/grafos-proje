@@ -1,0 +1,11 @@
+{
+  "name": "grafos-proj",
+  "version": "1.0.0",
+  "description": "Projetos da materia de de Grafos para o Curso de CS da Unifil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diogo Cardoso Fernandes",
+  "license": "ISC"
+}
